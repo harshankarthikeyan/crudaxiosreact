@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crudaxiosreact/static/css/main.e6c13ad2.css",
+    "main.js": "/crudaxiosreact/static/js/main.eb366062.js",
+    "static/js/453.b4cb6b9b.chunk.js": "/crudaxiosreact/static/js/453.b4cb6b9b.chunk.js",
+    "index.html": "/crudaxiosreact/index.html",
+    "main.e6c13ad2.css.map": "/crudaxiosreact/static/css/main.e6c13ad2.css.map",
+    "main.eb366062.js.map": "/crudaxiosreact/static/js/main.eb366062.js.map",
+    "453.b4cb6b9b.chunk.js.map": "/crudaxiosreact/static/js/453.b4cb6b9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eb366062.js"
+  ]
+}
